@@ -3,4 +3,8 @@ and this is the second
 and one more change
 final change
 and one more 
+<<<<<<< HEAD
 boo boo hoo
+=======
+boo boo haha
+>>>>>>> a4fd5f5 (resolving it all)
